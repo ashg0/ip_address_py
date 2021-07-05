@@ -1,0 +1,30 @@
+1,192.168.0.0/22,included
+2,192.168.5.0/24,included
+3,192.168.2.0/23,included
+4,192.168.20.0/24,included
+5,192.168.21.0/24,included
+6,192.168.22.0/24,included
+7,192.168.23.0/24,included
+8,192.168.24.0/24,included
+9,192.168.25.0/24,included
+10,192.168.26.0/24,included
+11,192.168.27.0/24,included
+12,192.168.28.0/24,included
+13,192.168.29.0/24,included
+14,192.168.30.0/24,included
+15,10.55.1.0/30,included
+16,10.56.0.0.24,cannot parse
+17,10.0.0.0/27,included
+18,10.1.0.0/27,included
+19,10.2.0.0/27,included
+20,10.3.0.0/27,included
+21,10.4.0.0/27,not included
+22,10.5.0.0/27,not included
+23,10.6.0.0/27,not included
+24,10.7.0.0/27,not included
+25,10.8.0.0/27,not included
+26,10.9.0.1,included
+27,10.9.0.1/32,included
+28,192.168.222.0/25,not included
+29,192.168.200.0/24,not included
+30,192.168.192.0/24,included
