@@ -13,7 +13,7 @@ with open(sys.argv[1], newline='') as csv1:
             continue
         csv1_set = csv1_set | row_set
 
-with open(sys.argv[2], newline='') as csv2, open('./result.csv', 'w', newline='') as result:
+with open(sys.argv[2], newline='') as csv2, open(sys.argv[3], 'w', newline='') as result:
     reader = csv.reader(csv2)
     writer = csv.writer(result)
     for row in reader:
